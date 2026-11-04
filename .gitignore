@@ -1,0 +1,8 @@
+# Ignore CSV files in the data folder
+data/*.csv
+
+# Ignore R files with this ending in the analysis folder only
+analysis/*_temp.R
+
+
+
