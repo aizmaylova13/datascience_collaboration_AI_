@@ -6,3 +6,8 @@ What is the most deadly diesease?
 # Team
 - Student name: analysis and visualisation
 - Student name: data documentation
+
+Methods section:
+being cool
+
+
